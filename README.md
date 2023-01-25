@@ -1,11 +1,18 @@
 # SDR binary builds stuff / cross-platform / ready to use
 
 ## Intro
-soon
+soon  
+Ready-to-use precompiled software associated with SDR (Software Defined Radio)
 
 ## Usage
-### Download Install & update
 soon
+
+### Download Install & update
+Installation files are distributed as a package or archive, which are located in the "Releases" section.
+
+### Supported OS
+Linux (Preferred), macOS, Android, Windows.
+
 
 ## Notices
 ### LEGAL NOTICE
