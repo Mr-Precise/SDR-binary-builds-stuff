@@ -4,6 +4,9 @@
 soon  
 Ready-to-use precompiled software associated with SDR (Software Defined Radio)
 
+## Software List
+Gqrx, SDR++, GNU Radio, rtl-sdr, hackrf, SDRSharp, CubicSDR
+
 ## Usage
 soon
 
