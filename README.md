@@ -22,11 +22,14 @@ It can be installed from the [official brew site](https://brew.sh/).
 
 On Windows, may be needed [Zadig WinUSB driver](https://zadig.akeo.ie/)
 
-### Download Install & update
-Installation files are distributed as a package or archive, which are located in the "Releases" section.
+## Download Install & update
+Installation files are distributed as a package or archive, which are located in the "[Releases](https://github.com/Mr-Precise/SDR-binary-builds-stuff/releases/)" section.
 
-### Supported OS
-Linux (Preferred), macOS, Android, Windows.
+### Supported OS:
+Linux: (amd64, i386, amrhf, arm64).  
+macOS: (intel, arm64).  
+Windows: (MSVC and MinGW cross-builds).  
+Android: (arm64-v8a, armeabi-v7a, x86_64, x86).
 
 
 ## Notices
