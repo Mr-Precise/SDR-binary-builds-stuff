@@ -1,22 +1,25 @@
 ## SDR binary builds stuff / cross-platform / ready to use
 
+- ### This repository will probably no longer receive updates
 ## Intro
 Ready-to-use precompiled software associated with SDR (Software Defined Radio)  
 
 ---
 ### Software List:
-- [Gqrx](https://github.com/gqrx-sdr/gqrx)
-- [SDR++](https://github.com/AlexandreRouma/SDRPlusPlus)
-- [GNU Radio](https://github.com/gnuradio/gnuradio)
-- [SDRSharp](https://airspy.com/download/) or my fork Mono port (soon)  
-- [CubicSDR](https://github.com/cjcliffe/CubicSDR)
-- [hackrf](https://github.com/greatscottgadgets/hackrf)
 - [My modded rtl-sdr](https://github.com/Mr-Precise/rtl-sdr)
+- [Gqrx](https://github.com/gqrx-sdr/gqrx)
+- [Gqrx with modified rtl-sdr library](https://github.com/Mr-Precise/gqrx-exp)
+- ["rtl_tcp port for Android" with modified rtl-sdr library](https://github.com/Mr-Precise/rtl_tcp_android)
+- [Custom build modded ExtIO_RTL for HDSDR](https://github.com/Mr-Precise/ExtIO_RTL/releases)
+- [SDR++](https://github.com/AlexandreRouma/SDRPlusPlus)
+- [SDR++Clean fork](https://github.com/Mr-Precise/SDRPPClean)
+- [GNU Radio](https://github.com/gnuradio/gnuradio)
+- [CubicSDR](https://github.com/cjcliffe/CubicSDR)
 - [etc](https://www.rtl-sdr.com/big-list-rtl-sdr-supported-software/)  
 
 ---
 ### Usage
-soon
+Download / Install / ?? / Profit!
 
 ---
 ### Windows:
